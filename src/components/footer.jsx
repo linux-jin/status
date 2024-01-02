@@ -40,7 +40,7 @@ const Footer = () => {
           {siteIcp ? (
             <React.Fragment>
               &nbsp;|&nbsp;
-              <CustomLink to="https://beian.miit.gov.cn/" text={siteIcp} />
+              <CustomLink to="https://icp.gov.moe/?keyword=20248885/" text={siteIcp} />
             </React.Fragment>
           ) : null}
         </p>
